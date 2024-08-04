@@ -22,11 +22,7 @@
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "Rudra Narayan Boitei",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
-  },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
   "dependencies": {}
 }
